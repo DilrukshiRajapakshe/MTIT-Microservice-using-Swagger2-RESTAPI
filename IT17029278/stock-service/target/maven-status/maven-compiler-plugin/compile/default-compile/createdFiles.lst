@@ -1,0 +1,5 @@
+com\mtit\assignment\stockservice\dbo\StockResponse.class
+com\mtit\assignment\stockservice\SpringFoxConfig.class
+com\mtit\assignment\stockservice\controller\StockController.class
+com\mtit\assignment\stockservice\dbo\StockRequest.class
+com\mtit\assignment\stockservice\StockServiceApplication.class

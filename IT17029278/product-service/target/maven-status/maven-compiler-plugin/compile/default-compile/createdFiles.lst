@@ -1,0 +1,8 @@
+com\mtit\assignment\productservice\ProductServiceApplication.class
+com\mtit\assignment\productservice\SpringFoxConfig.class
+com\mtit\assignment\productservice\dbo\StockCreationResponse.class
+com\mtit\assignment\productservice\dbo\StockCreationRequest.class
+com\mtit\assignment\productservice\dbo\ProductRequest.class
+com\mtit\assignment\productservice\dbo\service\ProductServiceImpl.class
+com\mtit\assignment\productservice\dbo\ProductResponse.class
+com\mtit\assignment\productservice\controller\ProductController.class
