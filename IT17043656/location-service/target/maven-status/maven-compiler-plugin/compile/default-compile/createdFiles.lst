@@ -1,0 +1,4 @@
+com\mtit\assignment\locationservice\LocationServiceApplication.class
+com\mtit\assignment\locationservice\controller\LocationController.class
+com\mtit\assignment\locationservice\dto\LocationRequest.class
+com\mtit\assignment\locationservice\dto\LocationResponse.class
